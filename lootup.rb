@@ -5,8 +5,8 @@ class Lootup < Formula
 
   # Stable Release via Git Tag
   url "https://github.com/Mald0r0r000/LOOTup.git",
-      tag:      "v0.1.2",
-      revision: "6c2c48d6720558073b9be1f2e7b1e0720454164f"
+      tag:      "v0.1.3",
+      revision: "8a4626539ce1dfe68c81ef63e83edb937bb5fd49"
 
   head "https://github.com/Mald0r0r000/LOOTup.git", branch: "main"
 
